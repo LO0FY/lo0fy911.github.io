@@ -1,0 +1,4 @@
+[submodule "thmroom/ThmRoom/pub"]
+	path = thmroom/ThmRoom/pub
+	url = https://github.com/LO0FY/lo0fy911.github.io.git
+	branch = main
